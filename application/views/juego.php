@@ -9,11 +9,11 @@
         </script>
         <meta charset="utf-8" />
         <title>TemplateGame</title>
-        <script src="lib/kiwi.js"></script>  
-        <script src="lib/primitives-1.0.2.js"></script>    
-        <script src="lib/inicio2.js"></script>    
-        <script src="lib/inicio.js"></script>    
-        <script src="lib/main.js"></script>   
+        <script src="<?=  base_url()?>lib/kiwi.js"></script>  
+        <script src="<?=  base_url()?>lib/primitives-1.0.2.js"></script>    
+        <script src="<?=  base_url()?>lib/inicio2.js"></script>    
+        <script src="<?=  base_url()?>lib/inicio.js"></script>    
+        <script src="<?=  base_url()?>lib/main.js"></script>   
 
 
     </head>
