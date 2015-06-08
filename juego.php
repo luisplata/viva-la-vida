@@ -13,6 +13,7 @@
         <script src="<?= base_url() ?>lib/primitives-1.0.2.js"></script>    
         <script src="<?= base_url() ?>lib/inicio2.js"></script>    
         <script src="<?= base_url() ?>lib/inicio.js"></script>    
+        <script src="<?= base_url() ?>lib/main.js"></script>  
     </head>
     <body style="margin:0px;padding:0px">
         <div id="content"></div>        

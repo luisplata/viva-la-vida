@@ -13,6 +13,7 @@
         <script src="lib/primitives-1.0.2.js"></script>    
         <script src="lib/inicio2.js"></script>    
         <script src="lib/inicio.js"></script>    
+        <script src="lib/main.js"></script>   
 
 
     </head>
